@@ -7,7 +7,7 @@ public class Hello {
 		x = input.nextInt();
 		System.out.println("Enter an Integer number:");
 		if (x%2==0) {
-			System.out.println("Entered number is even");
+			System.out.println("Entered number is even"); // added print statement
 			System.out.println("Branch1 added");//added print statement
 		}
 		else
